@@ -73,55 +73,11 @@ Hi! I'm **Ayub Alam**, a Computer Science and Engineering student passionate abo
 
 </div>
 
----
 
-## 🚀 Featured Projects
 
-<div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Technology |
-|---|---|---|
-| 🎫 **QueueLess** | Smart queue management system | React • Node • Express • MongoDB |
-| 🛡️ **Online Complaint Management** | Role-based complaint management platform | React • Node • MongoDB • JWT |
-| 🛍️ **STYLE-FORGE** | Full-stack e-commerce application | React • Tailwind • Node • MongoDB |
-| 📦 **STOCKSENSE** | Inventory and stock analysis system | Python • Pandas • Data Analysis |
-| 🎓 **Student Placement Prediction** | ML-based student placement prediction | Python • Scikit-learn • Flask |
 
-</div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayubalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubalam&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayubalam&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayubalam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -131,19 +87,6 @@ Hi! I'm **Ayub Alam**, a Computer Science and Engineering student passionate abo
 
 </div>
 
----
-
-## 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN-Stack%20Internship-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cyber%20Security-Internship-7F00FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
